@@ -1,4 +1,4 @@
-### Olá, eu sou o Conrado 😄
+## Olá, eu sou o Conrado 😄
 
 
 - 🔭 Atualmente trabalho no front-end
@@ -18,4 +18,11 @@
   <a href = "gui14fbce@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-conrado-2784a7264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+### Alguns mini projetos que fiz para treino...
+
+<a href="https://conradogui.github.io/hello/treinandopt1/index.html">IMC calculator</a> <br>
+<a href="https://conradogui.github.io/own-projects/pro2/">Cordel</a> <br>
+<a href="https://conradogui.github.io/own-projects/pro3/">Jogo da velha</a>
+
   
