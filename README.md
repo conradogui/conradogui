@@ -23,7 +23,7 @@
 
 <a href="https://conradogui.github.io/hello/treinandopt1/index.html" target="_blank">IMC calculator</a> <br>
 <a href="https://conradogui.github.io/own-projects/pro2/" target="_blank">Cordel</a> <br>
-<a href="https://conradogui.github.io/own-projects/pro3/" target="_blank">Jogo da velha</a>
+<a href="https://conradogui.github.io/own-projects/pro3/" target="_blank">Jogo da velha</a> <br>
 <a href="https://conradogui.github.io/own-projects/pro7/" target="_blank">Snake game</a>
 
 
