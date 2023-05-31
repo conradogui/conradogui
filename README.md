@@ -1,8 +1,8 @@
-## Olá, eu sou o Conrado 😄
+## Hi, i'am Conrado 😄
 
 
-- 🔭 Atualmente trabalho no front-end
-- 🌱 Estudo javascript/HTML/CSS
+- 🔭 I currently work with front end
+- 🌱 Currently studying javascript/HTML/CSS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=conradogui&show_icons=true&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=conradogui&layout=compact&theme=midnight-purple)](https://github.com/conradogui/github-readme-stats)
@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/guilherme-conrado-2784a7264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-### Alguns mini projetos que fiz para treino...
+### Some projects I made for training...
 
 <a href="https://conradogui.github.io/hello/treinandopt1/index.html" target="_blank">IMC calculator</a> <br>
 <a href="https://conradogui.github.io/own-projects/pro2/" target="_blank">Cordel</a> <br>
