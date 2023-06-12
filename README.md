@@ -10,9 +10,6 @@
 ## Most used languages
 [![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=conradogui&layout=compact&theme=dracula)](https://github.com/conradogui/github-readme-stats)
 
-## Recent performance
-![conradogui's Streak](https://github-readme-streak-stats.herokuapp.com/?user=conradogui&theme=dracula&hide_border=false)
-
 ## Technologies I use
 <img align="left" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="left" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
