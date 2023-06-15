@@ -1,5 +1,4 @@
-# Hi, i'm Conrado! 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=30F72E&center=true&vCenter=true&width=500&lines=console.log(%22hello+world%2C+i'm+Conrado!%22))](https://git.io/typing-svg)
 ## About me:
 - 🔭 I currently work as a front-end developer.
 - 🌱 I'm improving my knowledge in JavaScript, HTML and CSS.
