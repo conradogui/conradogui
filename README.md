@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning React and Next
 
-- 📫 How to reach me **gui14fbce@gmail.com**
+- 📫 How to reach me **maiaconrado10@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/guilherme-conrado-2784a7264/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/conradogui" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
